@@ -1,4 +1,6 @@
-# Continuous Patient Monitoring Sample
+# Health Industry
+# Improving and Securing Healthcare Management
+# Continous Patient Monitoring (CPM)
 A sample application written in React-Native to connect BLE (Bluetooth Low-Energy) devices to Azure IoT Central.
 
 <!-- **Android**   
